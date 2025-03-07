@@ -31,12 +31,9 @@ body{
 }
 
 .cabecalho__menu__link {
-    margin: 0 10px;
-    padding: 10 15px;
     font-family: var(--fonte--secundaria);
     font-size: 1.5rem;
     font-weight: 600;
-    text-align: justify;
     color: var(--cor--terciaria);
     text-decoration: none;
 }
@@ -104,7 +101,7 @@ body{
     font-weight: 600;
     
 }
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--cor--hover);
     padding: 3%;
 }
